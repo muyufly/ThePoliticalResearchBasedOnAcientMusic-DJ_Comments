@@ -1,0 +1,14 @@
+{
+  "source_project": "BiliPoliticalCommentsResearcher (BPCR)",
+  "source_summary_dir": "result/summary_20260426_172702",
+  "generated_at": "2026-04-26T17:31:02",
+  "song_count": 10,
+  "comment_count": 69975,
+  "political_historical_comment_count": 7609,
+  "political_historical_comment_share_pct": 10.87,
+  "clean_term_count": 115,
+  "excluded_term_count": 29,
+  "review_queue_count": 346,
+  "ai_assisted_review": true,
+  "public_release_note": "Sanitized aggregate release. Raw comments, user identifiers, cookies, and specific sensitive second-level labels are excluded."
+}
